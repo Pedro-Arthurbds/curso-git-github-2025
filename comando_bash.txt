@@ -1,0 +1,7 @@
+ls -> lista o que tem
+ls - a -> lista arquivo oculto
+cd -> entra em uma pasta
+pwd -> saber onde eu estou
+mkdir -> Cria uma pasta
+cat -> mostra o que ta escrito no txt
+rm -fr .git/ -> apaga pasta
