@@ -1,0 +1,20 @@
+Dicas Importantes
+Primeira execução:
+
+Será gerada uma pasta wwebjs_auth - não a delete, ela armazena sua sessão
+
+Escaneie o QR code com seu WhatsApp
+
+Problemas comuns:
+
+Se travar, delete a pasta wwebjs_auth e tente novamente
+
+No Windows, talvez precise instalar: npm install -g windows-build-tools
+
+Para evitar bloqueio:
+
+Não envie muitas mensagens de uma vez
+
+Use delays aleatórios entre envios
+
+Comece com pequenos lotes de números
