@@ -5,3 +5,8 @@ pwd -> saber onde eu estou
 mkdir -> Cria uma pasta
 cat -> mostra o que ta escrito no txt
 rm -fr .git/ -> apaga pasta
+git init -> inicia repositório
+git status - > 
+git add
+
+
