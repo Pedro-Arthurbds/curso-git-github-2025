@@ -1,2 +1,2 @@
-\#Curso tmW GIT % GITHUB 2025
+\# CURSO TMW GIT \& GITHUB 2025
 
